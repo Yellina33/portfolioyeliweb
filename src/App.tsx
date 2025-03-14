@@ -284,7 +284,7 @@ function App() {
             <div className="relative">
               <div className="w-full h-[500px] rounded-2xl overflow-hidden items-center justify-center">
                 <img 
-                  src="public/images/imagehero.png" 
+                  src="/images/imagehero.jpg" 
                   alt="Profile" 
                   className="w-full h-full object-contain"
                 />
